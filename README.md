@@ -1,2 +1,2 @@
 # NLP-and-Scraping-at-Toolbox
-Repository for the material of the meeting held at Toolbox Coworking
+Repository for the material of the meetings held at Toolbox Coworking
