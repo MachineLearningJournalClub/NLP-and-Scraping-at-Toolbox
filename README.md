@@ -2,7 +2,7 @@
 Repository for the material of the meetings held at Toolbox Coworking (https://toolboxcoworking.com/)
 
 
-This folder contains the material used during the presentation we held at Toolbox Coworking, between January and May 2022.
+This folder contains the material used during the presentations we held at Toolbox Coworking, between January and May 2022.
 
 In particular, the sessions we presented are:
 
